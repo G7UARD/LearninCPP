@@ -1,11 +1,11 @@
-В этом репозитории будут находится коды которые нужно скопировать в любой удобный компилятор
+This repository will contain the codes to be copied into any convenient compiler
 
-Файл с кодом имеет тип .cpp
+The file with the code is of type .cpp
 
-Что бы запустить любой код требуется убрать его из под коментария который выглядит следующим образом:
+To run any code you need to remove it from under the comment, which looks like this:
 
 /* 
-код
+code
 
 */
 
